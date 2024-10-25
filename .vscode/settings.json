@@ -1,0 +1,9 @@
+{
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "java.format.settings.profile": "GoogleStyle",
+    "java.package.name.validation": {
+        "enabled": false
+    },
+}
