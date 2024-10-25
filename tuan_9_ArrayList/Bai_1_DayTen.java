@@ -10,7 +10,7 @@ public class Bai_1_DayTen {
         bands.add("Mai");
         bands.add("Dung");
         bands.add("Hoang");
-        bands.add("Hai");
+        bands.add("Hai"); 
         bands.add("Vinh");
         bands.add("Tu");
         bands.add("Bao");

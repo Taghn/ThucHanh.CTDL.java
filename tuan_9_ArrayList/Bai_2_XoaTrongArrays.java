@@ -8,7 +8,7 @@ public class Bai_2_XoaTrongArrays {
         String filePath = System.getProperty("user.dir") + File.separator + "speech.txt";
         Scanner console= new Scanner(new File("speech.txt"));
         ArrayList<String> list = new ArrayList<>();
-
+ 
         list.add("one");
         list.add("a");
         list.add("to");

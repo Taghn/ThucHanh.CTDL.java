@@ -35,7 +35,7 @@ public class Bai_5_ThongKePhieuBau {
             {
                 DemPhieu[1]++;
             }
-            else if(phieubau.get(i).equals("C"))
+            else if(phieubau.get(i).equals("C")) 
             {
                 DemPhieu[2]++;
             }

@@ -16,7 +16,7 @@ public class Bai_3_TinhTongArrays {
             result = list.get(i);
             System.out.print(" "+result);
         }
-        System.out.println();
+        System.out.println(); 
         
         int sum=0;
         for (int i=0;i<list.size();i++) {

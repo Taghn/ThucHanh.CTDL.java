@@ -15,7 +15,7 @@ public class Bai_4_SapXepArrays {
         for (int i=0;i<list.size();i++) {
             result = list.get(i);
             System.out.print(" "+result);
-        }
+        } 
         System.out.println();
 
         Collections.sort(list);
