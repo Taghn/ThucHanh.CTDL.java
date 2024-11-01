@@ -62,12 +62,6 @@ public class baitap_9 {
             System.out.println();
         }   
     }
-
-
-
-
-
-
     public static void main(String[] args) {
         drawline();
         drawtop();

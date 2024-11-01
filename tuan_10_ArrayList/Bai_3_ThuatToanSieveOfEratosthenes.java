@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Bai_3_ThuatToanSieveOfEratosthenes {
      public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
+        System.out.print("Xin moi nhap so ket thuc day: ");
         int max = console.nextInt();
 
         List<Integer> Songuyento=Day(max);
@@ -17,7 +18,7 @@ public class Bai_3_ThuatToanSieveOfEratosthenes {
     public static List<Integer>Day(int max) {
         LinkedList<Integer> Dayso = new LinkedList<>();
         LinkedList<Integer> Songuyento = new LinkedList<>();
-        for (int i=2;i<=25;i++)
+        for (int i=2;i<=max;i++)
         {
            Dayso.add(i);
         }

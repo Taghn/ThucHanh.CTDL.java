@@ -10,7 +10,7 @@ public class BaiTap_9_haimu {
     }
 
     public static void main(String[] args) {
-        double Ketqua[] = TinhSoMu(10);
+        double Ketqua[] = TinhSoMu(5);
         for ( int i = 0; i < Ketqua.length; i++ )
         {
             System.out.print(Ketqua[i] + " ");
